@@ -16,9 +16,9 @@ To get started with ODD-INJECTOR, follow these simple steps:
 
 First, you need to clone the repository to your local machine. Open a terminal and run the following command:
 
-```bash
+`bash
 git clone https://github.com/yourusername/ODD-INJECTOR.git
-cd ODD-INJECTOR
+cd ODD-INJECTOR`
 
 ### 2.Install Dependencies
 
